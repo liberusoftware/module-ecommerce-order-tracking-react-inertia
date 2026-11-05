@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-order-tracking-react-inertia",
+  "capabilityKey": "planned:ecommerce:order-tracking",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-ecommerce-order-tracking-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/ecommerce/nextjs/order-tracking.md",
+  "presentationPlan": "projects/ecommerce/react/order-tracking.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
